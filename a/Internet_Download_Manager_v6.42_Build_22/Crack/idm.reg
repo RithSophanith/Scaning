@@ -1,0 +1,10 @@
+Windows Registry Editor Version 5.00
+
+[HKEY_CURRENT_USER\Software\DownloadManager]
+"idmvers"="v6.42b22 Full"
+"FName"="Tonec"
+"LName"="FZE"
+"Email"="info@tonec.com"
+"Serial"="Y8CFG-LIY0L-POF94-XB2EP"
+"nLst"=dword:00000001
+"LaunchOnStart"=dword:00000001
